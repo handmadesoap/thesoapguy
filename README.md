@@ -1,6 +1,2 @@
-# thesoapguy
-All-natural handmade soap supplier. Custom soap and &lt;a href=https://thesoapguy.com>private label soap&lt;/a> are available. Over 160 designs and fragrances to choose from. All products are handmade. Only the finest natural ingredients are sourced from certified sustainable suppliers. 
-<a href="https://thesoapguy.com" rel="nofollow noopener">thesoapguy.com</a>
-
-
-[url=https://thesoapguy.com]thesoapguy.com[/url]
+![The soap guy](https://github.com/handmadesoap/thesoapguy/assets/153203251/493cd099-e191-4818-ab2d-67984af93f38)
+All-natural handmade soap supplier. Custom soap and private label soap are available. Over 160 designs and fragrances to choose from. All products are handmade. Only the finest natural ingredients are sourced from certified sustainable suppliers. Support your local soap artisan today. Visit to official website <a href="https://thesoapguy.com" rel="nofollow noopener">thesoapguy.com</a>, we honestly believe that can provide you with this quality product at these amazing prices.
